@@ -1,6 +1,4 @@
 #include <windows.h>
-// #include <iostream>
-// #include <iomanip>
 
 int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nCmdShow) {
     int msgboxID = MessageBox(
